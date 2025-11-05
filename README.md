@@ -35,4 +35,4 @@ With 20+ years in broadcast engineering, I now leverage Python automation to rev
 
 ---
 
-> *Passionate about creating scalable, automation-driven solutions that enhance broadcast performance and operational efficiency.*
+> "Make resume links clickable"
