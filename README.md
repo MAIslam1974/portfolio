@@ -7,7 +7,7 @@ With 20+ years in broadcast engineering, I now leverage Python automation to rev
 ---
 
 ## 📁 My Resume
-- **📄 PDF Version**: [Download Resume](Aminul-Islam-Resume.pdf)
+- **📄 PDF Version**: [Download Resume](https://MAIslam1974.github.io/portfolio/Aminul-Islam-Resume.pdf)
 - **🌐 View Online**: [GitHub Pages](https://MAIslam1974.github.io/portfolio)
 
 ## 🔧 Technical Expertise
