@@ -7,8 +7,11 @@ With 20+ years in broadcast engineering, I now leverage Python automation to rev
 ---
 
 ## 📁 My Resume
-- **📄 PDF Version**: [Download Resume](https://MAIslam1974.github.io/portfolio/Aminul-Islam-Resume.pdf)
-- **🌐 View Online**: [GitHub Pages](https://MAIslam1974.github.io/portfolio)
+
+<a href="https://MAIslam1974.github.io/portfolio/Aminul-Islam-Resume.pdf">📄 PDF Version: Download Resume</a>  
+<a href="https://MAIslam1974.github.io/portfolio">🌐 View Online: GitHub Pages</a>
+
+---
 
 ## 🔧 Technical Expertise
 
@@ -21,11 +24,15 @@ With 20+ years in broadcast engineering, I now leverage Python automation to rev
 - **Scripting**: Bash Scripting, HTML, OS Scripting
 - **Tools**: Git, GitHub, VS Code, Linux, Windows Server
 
+---
+
 ## 📞 Let's Connect
 - **📧 Email**: amin.bvtv@gmail.com
 - **📱 Phone**: +8801827543272
-- **💼 LinkedIn**: [md-aminul-islam-dev](https://linkedin.com/in/md-aminul-islam-dev)
-- **🐙 GitHub**: [MAIslam1974](https://github.com/MAIslam1974)
+- **💼 LinkedIn**: <a href="https://linkedin.com/in/md-aminul-islam-dev">md-aminul-islam-dev</a>
+- **🐙 GitHub**: <a href="https://github.com/MAIslam1974">MAIslam1974</a>
+
+---
 
 ## 🚀 What I Bring
 - **70% reduction** in manual intervention through Python automation scripts
